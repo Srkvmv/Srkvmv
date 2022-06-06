@@ -1,6 +1,6 @@
-- 👋 Hi, I’m @Srkvmv
+- 👋 Hi, I’m Sivaram
 - 👀 I’m interested in full stack development.
-- 🌱 I’m currently learning ReactJS
+- 🌱 I’m currently learning MERN stack
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 
